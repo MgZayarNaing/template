@@ -25,7 +25,8 @@ section {
 }
 
 .section-wrap {
-    background-color: rgba(0, 255, 255, 0.249);
+    /* background-color: rgba(0, 255, 255, 0.249); */
+    background-color: red;
     height: 75vh;
     width: 90%;
     border: 1px solid black;
